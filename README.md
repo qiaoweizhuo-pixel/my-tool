@@ -1,6 +1,9 @@
-# Code Repository for "Functional Divergence of Plant P450 Proteins
+# PLAS
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18857481.svg)](https://doi.org/10.5281/zenodo.18857481)
+[![GitHub Release](https://github.com/qiaoweizhuo-pixel/my-tool)
+
+**Version**: 1.0.0 | **Archived**: Zenodo DOI: [10.5281/zenodo.18857481](https://doi.org/10.5281/zenodo.18857481)  
 
 This repository contains all the analysis code for the manuscript titled **"Protein Language Modeling and Evolutionary Analysis Reveal an N-terminal Determinant of Functional Divergence in Cytochrome P450s from Sophora. tonkinensis**.
 
@@ -116,7 +119,7 @@ If you use this code in your research, please cite:
   publisher = {Zenodo},
   version = {v1.0},
   doi = {DOI 10.5281/zenodo.18857481.},
-  url = {}
+  url = {https://doi.org/10.5281/zenodo.18857481}
 }
 ```
 
@@ -131,3 +134,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Note**: This code is associated with the manuscript currently under review. Please contact the corresponding author for pre-print access.
+
+## 📜 Version History
+
+- **v1.0.0** (2024-03-04): Initial release corresponding to manuscript submission
+  - Archived at Zenodo: [10.5281/zenodo.18857481](https://doi.org/10.5281/zenodo.18857481)
+  - Includes all four core analysis scripts
+
+**Zenodo (archived):** v1.0.0 – DOI: 10.5281/zenodo.18857481
+This is the fixed version cited in the paper, ensuring exact reproducibility.
+
+**GitHub (development):** May contain bug fixes and updates
+For the latest features, please refer to the most recent commits, but note that there might be minor discrepancies compared to the results in the paper.

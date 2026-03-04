@@ -2,7 +2,7 @@
 
 
 
-This repository contains all the analysis code for the manuscript titled **"Functional Divergence of Plant P450 Proteins: Insights from Evolutionary and Machine Learning Approaches"**.
+This repository contains all the analysis code for the manuscript titled **"Protein Language Modeling and Evolutionary Analysis Reveal an N-terminal Determinant of Functional Divergence in Cytochrome P450s from Sophora. tonkinensis**.
 
 ## 📋 Repository Overview
 
@@ -109,13 +109,13 @@ Implements **Method 2.8** to identify and visualize amino acid positions that ar
 If you use this code in your research, please cite:
 
 ```bibtex
-@software{plant_p450_code_2024,
+@software{PLMA,
   author = {Qiao Zhu},
-  title = {Code for: Functional Divergence of Plant P450 Proteins},
+  title = {Code for: Protein Language Modeling and Evolutionary Analysis Reveal an N-terminal Determinant of Functional Divergence in Cytochrome P450s from Sophora. tonkinensis},
   year = {2026},
   publisher = {Zenodo},
   version = {v1.0},
-  doi = {},
+  doi = {DOI 10.5281/zenodo.18857481.},
   url = {}
 }
 ```

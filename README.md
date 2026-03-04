@@ -1,6 +1,6 @@
-# Code Repository for "Functional Divergence of Plant P450 Proteins"
+# Code Repository for "Functional Divergence of Plant P450 Proteins
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18857481.svg)](https://doi.org/10.5281/zenodo.18857481)
 
 This repository contains all the analysis code for the manuscript titled **"Protein Language Modeling and Evolutionary Analysis Reveal an N-terminal Determinant of Functional Divergence in Cytochrome P450s from Sophora. tonkinensis**.
 

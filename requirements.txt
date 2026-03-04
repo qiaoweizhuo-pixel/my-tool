@@ -1,0 +1,45 @@
+# Data Analysis Pipeline Requirements for Academic Paper
+# Compatible with Python 3.8-3.12
+# Created for: [Protein Language Modeling and Evolutionary Analysis Reveal an N-terminal Determinant of Functional Divergence in Cytochrome P450s from Sophora. tonkinensis]
+# Last updated: [2026.03.04]
+
+# Core numerical computing
+numpy==1.23.5
+scipy==1.10.1
+pandas==1.5.3
+
+# Machine learning
+scikit-learn==1.2.2
+umap-learn==0.5.3
+
+# Deep learning (CPU version - for universal compatibility)
+torch==2.0.1
+torchvision==0.15.2
+
+# For GPU acceleration (CUDA 11.8), comment above and uncomment below:
+# torch==2.0.1+cu118
+# torchvision==0.15.2+cu118
+
+# Transformer models (for ESM2, etc.)
+transformers==4.31.0
+
+# Bioinformatics packages
+biopython==1.81
+ete3==3.1.3
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+# Utilities
+tqdm==4.65.0
+h5py==3.8.0
+joblib==1.2.0
+requests==2.31.0
+
+# For network analysis (optional)
+networkx==3.1
+
+# For image processing (optional)
+Pillow==9.5.0

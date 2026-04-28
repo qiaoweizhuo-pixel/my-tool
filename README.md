@@ -62,6 +62,7 @@ my-tool/
 ### Prerequisites
 
 - Python 3.8 - 3.12
+- Note: Python 3.13 has not been tested with this requirement set. It may cause compatibility issues (e.g., building older packages like numpy==1.23.5 fails due to removed internal modules). We strongly recommend using Python 3.12 or lower for a smooth installation.
 - Required Python packages (install via `requirements.txt`):
 
 ```bash

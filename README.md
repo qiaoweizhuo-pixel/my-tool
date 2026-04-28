@@ -61,7 +61,7 @@ my-tool/
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.8 - 3.12
 - Required Python packages (install via `requirements.txt`):
 
 ```bash

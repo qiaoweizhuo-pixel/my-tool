@@ -74,8 +74,7 @@ python PEACE.py --mode <dtw|reference> --fasta <input.fasta> [options]
 
 ## Examples
 
-### DTW Mode (Recommended for diverse families)
-
+### DTW Mode 
 ```bash
 python PEACE.py --mode dtw --fasta kinase_family.fasta \
     --tree kinase_tree.nwk \
@@ -83,7 +82,7 @@ python PEACE.py --mode dtw --fasta kinase_family.fasta \
     -o kinase_peace_dtw
 ```
 
-### Reference Mode (Faster, good for closely related sequences)
+### Reference Mode 
 
 ```bash
 python PEACE.py --mode reference --fasta gpcr_subfamily.fasta \

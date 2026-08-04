@@ -1,5 +1,3 @@
-Here is a comprehensive README for the `PEACE.py` script:
-
 # PEACE: Per-position Embedding Alignment-free Constraint Estimation
 
 **PEACE** is a dual-mode computational tool for analyzing evolutionary constraints and directional divergence in protein families directly from sequence embeddings. Unlike traditional alignment-based methods, PEACE operates in an alignment-free manner by leveraging per-position embedding templates and advanced correspondence matching.
